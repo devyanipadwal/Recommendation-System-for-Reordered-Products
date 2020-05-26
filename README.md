@@ -6,11 +6,9 @@ The algorithms used are Weighted Basket Method and Product Transition Probabilit
 The algorithms are biuld and tested on 2 datasets:
 
 Dataset 1: The Instacart Online Grocery Shopping Dataset 
-
 Link: https://www.instacart.com/datasets/grocery-shopping-2017
 
 Dataset 2: The Dunnhumby Let’s Get Sort-of-Real Grocery Dataset
-
 Link: https://www.dunnhumby.com/careers/engineering/sourcefiles
 
 These datasets are fit for this project because not only they have multiple user orders and are of high volume but also they have products that
